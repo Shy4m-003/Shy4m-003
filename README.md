@@ -7,7 +7,7 @@ Full stack developer
 I’m Shyam, a full-stack developer focused on building efficient, scalable software solutions using Java, Spring Boot, and Angular. Passionate about exploring new technologies and improving my skills through open-source contributions. Currently refining my expertise in system design, microservices, and contributing to the open-source community.
 
 *   🌍  I'm based in Bengaluru
-*   🖥️  See my portfolio at [https://shy4m-003.github.io/portfolio/](http://shy4m-003.github.io/portfolio/)
+*   🖥️  See my portfolio at [https://shy4m-003.github.io/portfolio/](https://shyam26-portfolio.vercel.app/)
 *   ✉️  You can contact me at [shyamprasadreddyginkala@gmail.com](mailto:shyamprasadreddyginkala@gmail.com)
 *   🧠  I'm currently learning System Design - High level System design
 *   👥  I'm looking to collaborate on Projects
